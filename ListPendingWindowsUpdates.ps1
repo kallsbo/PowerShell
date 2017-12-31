@@ -1,6 +1,5 @@
 function GetPendingUpdatesRemote
-{
-    
+{ 
     try 
     { 
         #Create Session COM object 
@@ -83,8 +82,6 @@ $result = @()
 # Loop the servers
 foreach($server in $servers)
 {
-    
-    
     try
     {
         # Invoke remote function
