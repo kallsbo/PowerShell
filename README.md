@@ -6,6 +6,7 @@ List all installed .Net versions on your computer/server
 
 ## [CryptMe.ps1](https://github.com/kallsbo/PowerShell/blob/master/CryptMe.ps1)
 Encode credentials to be used in PowerShell scripts where integrated security isn't an option.
+[More information here](https://www.hackviking.com/security_and_hacks/dealing-with-credentials-in-powershell/)
 
 ## [IISAppPoolKilles.ps1](https://github.com/kallsbo/PowerShell/blob/master/IISAppPoolKiller.ps1)
 Displays a gridview of all the running Internet Information Server Application Pools. Select one and it will be killed.
